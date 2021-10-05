@@ -6,8 +6,8 @@
 
 <p align="left">
 <a href="https://github.com/defuj">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=defuj&show_icons=true&theme=Gradient&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=defuj&layout=compact&langs_count=8&theme=Gradient"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=defuj&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=defuj&layout=compact&langs_count=8&theme=vue-dark"/>
 </a>
 </p>
 
