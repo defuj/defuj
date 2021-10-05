@@ -1,13 +1,13 @@
 ## Hi there 👋
 # Hi, I'm Dede Fuji Abdul (Defuj) 👋
-🔭 I’m currently working at PT.Sawarga Digital Indonesia(SADIGIT) as **Frontend Mobile Engineer** & **Chief Technology Officer (CTO) Mobile**\
+🔭 I’m currently working at PT.Sawarga Digital Indonesia(SADIGIT) as **Frontend Mobile Engineer** & **CTO**\
 📫 Interest to work? [Contact Me!](mailto:defuj.official@gmail.com)\
 😄 Nice To Meet You 😄
 
 <p align="left">
 <a href="https://github.com/defuj">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=defuj&show_icons=true&theme=github-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=defuj&layout=compact&langs_count=8&theme=github-dark"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=defuj&show_icons=true&theme=gradient&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=defuj&layout=compact&langs_count=8&theme=gradient"/>
 </a>
 </p>
 
