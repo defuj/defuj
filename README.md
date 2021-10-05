@@ -1,6 +1,6 @@
 # Hi, I'm Dede Fuji Abdul (Defuj) 👋
-🔭 I’m currently working at PT.Sawarga Digital Indonesia(SADIGIT) as **Frontend Mobile Engineer**\
-📫 Interest to work? [Contact Me!](mail:defuj.official@gmail.com)\
+🔭 I’m currently working at PT.Sawarga Digital Indonesia(SADIGIT) as **Frontend Mobile Engineer** & **Chief Technology Officer (CTO) Mobile**\
+📫 Interest to work? [Contact Me!](mailto:defuj.official@gmail.com)\
 😄 Nice To Meet You 😄
 
 <p align="left">
