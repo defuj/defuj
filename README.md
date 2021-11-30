@@ -9,7 +9,7 @@
 - Facebook: https://facebook.com/defuj17
 - Twitter: https://twitter.com/defuj17
 - Web: https://lynk.id/defuj
-- Email : [defuj.official@gmail.com](mailto:defuj.official@gmail.com)
+- Email : [defuj.business@gmail.com](mailto:defuj.business@gmail.com)
 
 <p align="left">
 <a href="https://github.com/defuj">
