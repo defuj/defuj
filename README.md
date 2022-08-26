@@ -14,9 +14,9 @@
 
 ## 🔧 Technologies & Tools
 
-![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-Kotlin?style=flat&logo=kotlin&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-Dart?style=flat&logo=dart&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-Flutter?style=flat&logo=flutter&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8&label=VS_Code)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8&label=Java_Script)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=6aa6f8&label=React)
+![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=6aa6f8&label=Kotlin)
+![](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=dart&logoColor=white&color=6aa6f8&label=Dart)
+![](https://img.shields.io/badge/Code-Flutterinformational?style=flat&logo=flutter&logoColor=white&color=6aa6f8&label=Flutter)
