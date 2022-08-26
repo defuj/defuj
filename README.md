@@ -4,7 +4,7 @@ I’m currently working at PT.Sawarga Digital Indonesia (SADIGIT) as **Frontend 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=defuj)
 
 ## 🔭 Contact & Social Media 
-![](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)(https://instagram.com/defuj17)
+<!-- ![](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white) -->
 - Instagram: https://instagram.com/defuj17
 - Facebook: https://facebook.com/defuj17
 - Twitter: https://twitter.com/defuj17
