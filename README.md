@@ -17,8 +17,10 @@
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/OS-window-informational?style=flat&logo=windows&logoColor=white&color=6aa6f8)
 
-![](https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=git&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Tool-Postman-informational?style=flat&logo=postman&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=postman&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Tools-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=6aa6f8)
 
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Editor-android-studio?style=flat&logo=android-studio&logoColor=white&color=6aa6f8)
