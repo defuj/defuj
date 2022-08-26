@@ -14,7 +14,9 @@
 
 ## 🔧 Technologies & Tools
 
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-Kotlin?style=flat&logo=kotlin&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-Dart?style=flat&logo=dart&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-Flutter?style=flat&logo=flutter&logoColor=white&color=6aa6f8)
