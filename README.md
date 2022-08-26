@@ -1,5 +1,5 @@
-# I'm Dede Fuji Abdul (Defuj) 👋
-I’m currently working at PT.Sawarga Digital Indonesia (SADIGIT) as **Frontend Mobile Engineer**
+## I'm Dede Fuji Abdul (Defuj) 👋
+🔭 I’m currently working at PT.Sawarga Digital Indonesia (SADIGIT) as **Frontend Mobile Engineer**
 
 - Instagram: https://instagram.com/defuj17
 - Facebook: https://facebook.com/defuj17
@@ -12,22 +12,9 @@ I’m currently working at PT.Sawarga Digital Indonesia (SADIGIT) as **Frontend 
 </a>
 </p>
 
+## 🔧 Technologies & Tools
 
-<!--
-**defuj/defuj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-[![defuj's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=defuj)](https://github.com/defuj)z
-
-to edit : https://github.com/defuj/github-readme-stats
--->
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=6aa6f8)
