@@ -1,5 +1,5 @@
 ## I'm Dede Fuji Abdul (Defuj) 👋
-# I’m currently working at PT.Sawarga Digital Indonesia (SADIGIT) as **Frontend Mobile Engineer**
+### I’m currently working at PT.Sawarga Digital Indonesia (SADIGIT) as **Frontend Mobile Engineer**
 
 ## 🔭 Contact & Social Media 
 - Instagram: https://instagram.com/defuj17
