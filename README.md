@@ -24,6 +24,10 @@
 ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Editor-android-studio?style=flat&logo=android-studio&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=white&color=6aa6f8)
+
+## 🔧 Programming Languages
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-NodeJs-informational?style=flat&logo=node.js&logoColor=white&color=6aa6f8)
@@ -32,10 +36,9 @@
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=6aa6f8&label=Code)
 ![](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=dart&logoColor=white&color=6aa6f8&label=Code)
+
+## 🔧 Frameworks
 ![](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=6aa6f8&label=Framework)
-![](https://img.shields.io/badge/Code-React_JS-informational?style=flat&logo=react&logoColor=white&color=6aa6f8&label=Framework)
 ![](https://img.shields.io/badge/Code-Bootstrap-informational?style=flat&logo=Bootstrap&logoColor=white&color=6aa6f8&label=Framework)
 ![](https://img.shields.io/badge/Code-React_Native-informational?style=flat&logo=react&logoColor=white&color=6aa6f8&label=Framework)
-![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=white&color=6aa6f8)
-
+![](https://img.shields.io/badge/Code-React_JS-informational?style=flat&logo=react&logoColor=white&color=6aa6f8&label=Framework)
