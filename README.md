@@ -2,11 +2,18 @@
 <h3 align="center">A passionate frontend developer from Indoensia</h3>
 
 ## 🔭 Connect with me 
-<!-- ![](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white) -->
-- Instagram: https://instagram.com/defuj17
-- Facebook: https://facebook.com/defuj17
-- Twitter: https://twitter.com/defuj17
 - Email : [defuj.dev@gmail.com](mailto:defuj.dev@gmail.com)
+<p align="left">
+<a href="https://twitter.com/defuj17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="defuj17" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/defuj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="defuj" height="30" width="40" /></a>
+<a href="https://fb.com/defuj17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="defuj17" height="30" width="40" /></a>
+<a href="https://instagram.com/defuj17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="defuj17" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/defuj17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="defuj17" height="30" width="40" /></a>
+</p>
+<a href="mailto:defuj.dev@gmail.com" target="blank"><img align="center" src="https://www.logo.wine/a/logo/Gmail/Gmail-Logo.wine.svg" alt="defuj17" height="30" width="40" /></a>
+</p>
+
+
 
 
 ## 🔧 Technologies & Tools
