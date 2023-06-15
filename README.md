@@ -1,7 +1,7 @@
-## I'm Dede Fuji Abdul (Defuj) 👋
-**Frontend Engineer** or **Frontend Developer** at PT.Sawarga Digital Indonesia (SADIGIT)
+<h1 align="center">Hi 👋, I'm Dede Fuji Abdul</h1>
+<h3 align="center">A passionate frontend developer from Indoensia</h3>
 
-## 🔭 Contact & Social Media 
+## 🔭 Connect with me 
 <!-- ![](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white) -->
 - Instagram: https://instagram.com/defuj17
 - Facebook: https://facebook.com/defuj17
