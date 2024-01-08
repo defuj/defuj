@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dede Fuji Abdul</h1>
-<h3 align="center">A passionate frontend developer from Indoensia</h3>
+<h3 align="center">A passionate frontend developer from Indonesia</h3>
 
 ## 🔭 Connect with me 
 <p align="left">
