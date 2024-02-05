@@ -2,20 +2,6 @@
 I'm a dedicated IT professional specializing in Front-End development. Currently, I have expertise in several programming languages, including Java, Kotlin, Dart, JavaScript and TypeScript. Additionally, I am proficient in working with Vue.JS, React.JS, React Native, Flutter, as well as CSS frameworks such as Bootstrap and TailwindCSS in my role as a Front-End Developer. With these skills, I am able to develop interactive, responsive web applications and cross-platform mobile applications.
 I'm always enthusiastic about continuous learning and staying up-to-date with the latest advancements in Front-End development.
 
-## 🔭 Connect with me 
-<p align="left">
-<a href="https://twitter.com/defuj17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="defuj17" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/defuj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="defuj" height="30" width="40" /></a>
-<a href="https://fb.com/defuj17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="defuj17" height="30" width="40" /></a>
-<a href="https://instagram.com/defuj17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="defuj17" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/defuj17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="defuj17" height="30" width="40" /></a>
-</p>
-<a href="mailto:defuj.dev@gmail.com" target="blank"><img align="center" src="https://www.logo.wine/a/logo/Gmail/Gmail-Logo.wine.svg" alt="defuj17" height="30" width="40" /></a>
-</p>
-
-
-
-
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Git-informational?style=flat&logo=git&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Postman-informational?style=flat&logo=postman&logoColor=white&color=6aa6f8)
@@ -49,3 +35,12 @@ I'm always enthusiastic about continuous learning and staying up-to-date with th
 ![](https://img.shields.io/badge/Dart-informational?style=flat&logo=dart&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/GO-informational?style=flat&logo=go&logoColor=white&color=6aa6f8)
 
+## 🔭 Connect with me 
+<p align="left">
+<a href="https://twitter.com/defuj17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="defuj17" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/defuj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="defuj" height="30" width="40" /></a>
+<a href="https://fb.com/defuj17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="defuj17" height="30" width="40" /></a>
+<a href="https://instagram.com/defuj17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="defuj17" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/defuj17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="defuj17" height="30" width="40" /></a>
+<a href="mailto:defuj.dev@gmail.com" target="blank"><img align="center" src="https://www.logo.wine/a/logo/Gmail/Gmail-Logo.wine.svg" alt="defuj17" height="30" width="40" /></a>
+</p>
