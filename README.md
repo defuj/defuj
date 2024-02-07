@@ -45,6 +45,9 @@ I'm always enthusiastic about continuous learning and staying up-to-date with th
 <a href="mailto:defuj.dev@gmail.com" target="blank"><img align="center" src="https://www.logo.wine/a/logo/Gmail/Gmail-Logo.wine.svg" alt="defuj17" height="30" width="40" /></a>
 </p>
 
-## Buy me a coffee
-<a href='[https://ko-fi.com/supportkofi](https://ko-fi.com/defuj)' target='_blank'><img height='35' style='border:0px;height:46px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' />
+## Send Gift
+<a href='https://ko-fi.com/defuj' target='_blank'><img height='35' style='border:0px;height:46px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' />
+<a href="https://paypal.me/defuj17?country.x=ID&locale.x=id_ID" target='_blank'>
+  <img height='56' style='border:0px;' src="https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png" alt="Donate with PayPal" />
+</a>
 
