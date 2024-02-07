@@ -44,3 +44,7 @@ I'm always enthusiastic about continuous learning and staying up-to-date with th
 <a href="https://www.youtube.com/c/defuj17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="defuj17" height="30" width="40" /></a>
 <a href="mailto:defuj.dev@gmail.com" target="blank"><img align="center" src="https://www.logo.wine/a/logo/Gmail/Gmail-Logo.wine.svg" alt="defuj17" height="30" width="40" /></a>
 </p>
+
+## Buy me a coffee
+<a href='[https://ko-fi.com/supportkofi](https://ko-fi.com/defuj)' target='_blank'><img height='35' style='border:0px;height:46px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' />
+
