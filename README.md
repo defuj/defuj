@@ -1,6 +1,7 @@
 <h1>Hi 👋, I'm Dede Fuji Abdul</h1>
-I'm a dedicated IT professional specializing in Front-End development. Currently, I have expertise in several programming languages, including Java, Kotlin, Dart, JavaScript and TypeScript. Additionally, I am proficient in working with Vue.JS, React.JS, React Native, Flutter, as well as CSS frameworks such as Bootstrap and TailwindCSS in my role as a Front-End Developer.
-I'm always enthusiastic about continuous learning and staying up-to-date with the latest advancements in Front-End development.
+I am a dedicated IT professional with a strong specialization in Front-End development. My technical proficiency encompasses a range of programming languages including Java, Kotlin, Dart, JavaScript, and TypeScript. I possess extensive experience in utilizing modern frameworks and libraries such as Vue.js, React.js, React Native, and Flutter. Additionally, I am adept in employing CSS frameworks like Bootstrap and TailwindCSS to create visually appealing and responsive designs.
+
+In my role as a Front-End Developer, I am committed to delivering interactive and highly responsive web applications as well as cross-platform mobile applications. My passion for continuous learning drives me to stay current with the latest advancements in Front-End development, ensuring that I consistently provide innovative solutions.
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Git-informational?style=flat&logo=git&logoColor=white&color=6aa6f8)
