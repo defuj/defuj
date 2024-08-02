@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Dede Fuji Abdul</h1>
+<!-- <h1>Hi 👋, I'm Dede Fuji Abdul</h1>
 I am a dedicated IT professional with a strong specialization in Front-End development. My technical proficiency encompasses a range of programming languages including Java, Kotlin, Dart, JavaScript, and TypeScript. I possess extensive experience in utilizing modern frameworks and libraries such as Vue.js, React.js, React Native, and Flutter. Additionally, I am adept in employing CSS frameworks like Bootstrap and TailwindCSS to create visually appealing and responsive designs.
 
 In my role as a Front-End Developer, I am committed to delivering interactive and highly responsive web applications as well as cross-platform mobile applications. My passion for continuous learning drives me to stay current with the latest advancements in Front-End development, ensuring that I consistently provide innovative solutions.
@@ -50,7 +50,7 @@ In my role as a Front-End Developer, I am committed to delivering interactive an
 <a href='https://ko-fi.com/defuj' target='_blank'><img height='35' style='border:0px;height:46px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' />
 <a href="https://paypal.me/defuj17?country.x=ID&locale.x=id_ID" target='_blank'>
   <img height='45' style='border:0px;margin-left:24px' src="https://www.avonctlibrary.info/wp-content/uploads/2023/11/5895ceb2cba9841eabab6071.png" alt="Donate with PayPal" />
-</a>
+</a> -->
 
 <h1 align="left">Hi 👋, I'm Dede Fuji Abdul</h1>
 <p align="left">I am a dedicated IT professional specializing in Front-End development. My technical skills include Java, Kotlin, Dart, JavaScript, and TypeScript. I have extensive experience with modern frameworks and libraries such as Vue.js, React.js, React Native, and Flutter. I also employ CSS frameworks like Bootstrap and TailwindCSS to create visually appealing and responsive designs.</p>
