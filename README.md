@@ -103,11 +103,3 @@ In my role as a Front-End Developer, I am committed to delivering interactive an
   <a href="https://www.youtube.com/c/defuj17" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a>
   <a href="mailto:defuj.dev@gmail.com" target="_blank"><img src="https://www.logo.wine/a/logo/Gmail/Gmail-Logo.wine.svg" alt="Email" height="30" width="40" /></a>
 </p>
-
-<h2 align="left">💖 Support Me</h2>
-<p align="left">
-  <a href='https://ko-fi.com/defuj' target='_blank'><img height='35' style='border:0px;height:46px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-  <a href="https://paypal.me/defuj17?country.x=ID&locale.x=id_ID" target='_blank'>
-    <img height='45' style='border:0px;margin-left:24px' src="https://www.avonctlibrary.info/wp-content/uploads/2023/11/5895ceb2cba9841eabab6071.png" alt="Donate with PayPal" />
-  </a>
-</p>
