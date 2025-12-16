@@ -26,11 +26,11 @@ jobs:
         with:
           node-version: lts/*
       - name: Run install
-        uses: borales/actions-yarn@v5
+        uses: borales/actions-yarn@v4
         with:
           cmd: install # will run `yarn install` command
       - name: Build
-        uses: borales/actions-yarn@v5
+        uses: borales/actions-yarn@v4
         with:
           cmd: build # will run `yarn build` command
       - name: Setup Pages
