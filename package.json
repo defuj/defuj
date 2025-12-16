@@ -1,0 +1,31 @@
+{
+  "name": "defuj.dev",
+  "version": "1.0.0",
+  "description": "Personal portfolio website for Dede Fuji Abdul (defuj) - Front-End Developer",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [
+    "portfolio",
+    "react",
+    "tailwindcss",
+    "frontend"
+  ],
+  "author": "Dede Fuji Abdul <defuj>",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-icons": "^5.0.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.0",
+    "autoprefixer": "^10.4.23",
+    "postcss": "^8.5.6",
+    "tailwindcss": "3.4.1",
+    "vite": "^5.4.0"
+  }
+}

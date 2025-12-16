@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en" class="dark">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dede Fuji Abdul - Front-End Developer</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+        tailwind.config = {
+            darkMode: 'class',
+            theme: {
+                extend: {
+                    colors: {
+                        primary: {
+                            400: '#38bdf8',
+                            500: '#0ea5e9',
+                            600: '#0284c7',
+                        }
+                    }
+                }
+            }
+        }
+    </script>
+    <style>
+        body { background: #111827; color: #f3f4f6; }
+        .text-gradient { background: linear-gradient(to right, #38bdf8, #a855f7); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; }
+        .glass-effect { background: rgba(255, 255, 255, 0.05); backdrop-filter: blur(10px); border: 1px solid rgba(255, 255, 255, 0.1); }
+        @keyframes float { 0%, 100% { transform: translateY(0px); } 50% { transform: translateY(-10px); } }
+        .animate-float { animation: float 3s ease-in-out infinite; }
+    </style>
+</head>
+<body class="bg-gray-900 text-gray-100">
+    <div class="min-h-screen">
+        <!-- Navbar -->
+        <nav class="fixed top-0 left-0 right-0 z-50 glass-effect py-4">
+            <div class="container mx-auto px-6 flex justify-between items-center">
+                <div class="text-2xl font-bold text-gradient">defuj.dev</div>
+                <div class="hidden md:flex space-x-6">
+                    <a href="#home" class="hover:text-primary-400 transition">Home</a>
+                    <a href="#about" class="hover:text-primary-400 transition">About</a>
+                    <a href="#skills" class="hover:text-primary-400 transition">Skills</a>
+                    <a href="#projects" class="hover:text-primary-400 transition">Projects</a>
+                    <a href="#experience" class="hover:text-primary-400 transition">Experience</a>
+                    <a href="#contact" class="hover:text-primary-400 transition">Contact</a>
+                </div>
+            </div>
+        </nav>
+
+        <!-- Hero Section -->
+        <section id="home" class="min-h-screen flex items-center justify-center relative overflow-hidden pt-20">
+            <div class="absolute w-96 h-96 bg-primary-500/20 rounded-full blur-3xl -top-48 -left-48 animate-float"></div>
+            <div class="absolute w-96 h-96 bg-purple-500/20 rounded-full blur-3xl -bottom-48 -right-48 animate-float"></div>
+            
+            <div class="container mx-auto px-6 relative z-10 text-center">
+                <h1 class="text-6xl font-bold mb-6">
+                    Hi, I'm <span class="text-gradient">Dede Fuji Abdul</span>
+                </h1>
+                <p class="text-2xl text-gray-400 mb-4">Front-End Developer</p>
+                <p class="text-xl text-gray-500 max-w-3xl mx-auto mb-8">
+                    Crafting Seamless Experiences Across Web & Mobile Platforms
+                </p>
+                
+                <!-- Social Links -->
+                <div class="flex justify-center gap-6 mb-8">
+                    <a href="https://www.linkedin.com/in/defuj" target="_blank" class="glass-effect p-4 rounded-full hover:bg-primary-500/20 transition">LinkedIn</a>
+                    <a href="https://github.com/defuj" target="_blank" class="glass-effect p-4 rounded-full hover:bg-primary-500/20 transition">GitHub</a>
+                    <a href="https://www.instagram.com/defuj17" target="_blank" class="glass-effect p-4 rounded-full hover:bg-primary-500/20 transition">Instagram</a>
+                    <a href="https://www.tiktok.com/@defuj.dev" target="_blank" class="glass-effect p-4 rounded-full hover:bg-primary-500/20 transition">TikTok</a>
+                </div>
+                
+                <div class="flex gap-4 justify-center">
+                    <a href="#projects" class="px-8 py-3 bg-primary-600 hover:bg-primary-500 rounded-lg font-medium transition">View My Work</a>
+                    <a href="#contact" class="px-8 py-3 glass-effect rounded-lg font-medium hover:bg-white/10 transition">Get In Touch</a>
+                </div>
+            </div>
+        </section>
+
+        <!-- About Section -->
+        <section id="about" class="py-20">
+            <div class="container mx-auto px-6">
+                <h2 class="text-5xl font-bold text-center mb-12">
+                    About <span class="text-gradient">Me</span>
+                </h2>
+                <div class="max-w-4xl mx-auto glass-effect rounded-2xl p-12">
+                    <p class="text-lg text-gray-300 mb-4">
+                        Hello! I'm Dede Fuji Abdul, also known as defuj across various platforms. 
+                        I'm a passionate Front-End Developer with a keen eye for creating seamless and engaging user experiences.
+                    </p>
+                    <p class="text-lg text-gray-300 mb-4">
+                        Since 2016, I've been crafting web and mobile applications that not only look great but also provide intuitive and efficient user interactions.
+                    </p>
+                    <div class="grid grid-cols-4 gap-6 mt-8 pt-6 border-t border-gray-700 text-center">
+                        <div><div class="text-3xl font-bold text-gradient">9+</div><div class="text-sm text-gray-400">Years Experience</div></div>
+                        <div><div class="text-3xl font-bold text-gradient">50+</div><div class="text-sm text-gray-400">Projects</div></div>
+                        <div><div class="text-3xl font-bold text-gradient">30+</div><div class="text-sm text-gray-400">Happy Clients</div></div>
+                        <div><div class="text-3xl font-bold text-gradient">100%</div><div class="text-sm text-gray-400">Dedication</div></div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Skills Section -->
+        <section id="skills" class="py-20">
+            <div class="container mx-auto px-6">
+                <h2 class="text-5xl font-bold text-center mb-12">
+                    My <span class="text-gradient">Skills</span>
+                </h2>
+                <div class="grid md:grid-cols-3 gap-8 max-w-6xl mx-auto">
+                    <div class="glass-effect rounded-2xl p-6">
+                        <h3 class="text-xl font-semibold mb-6">Web Development</h3>
+                        <div class="space-y-4">
+                            <div><div class="flex justify-between mb-2"><span>ReactJS</span><span>95%</span></div><div class="h-2 bg-gray-800 rounded-full"><div class="h-full bg-gradient-to-r from-primary-500 to-purple-500 rounded-full" style="width: 95%"></div></div></div>
+                            <div><div class="flex justify-between mb-2"><span>VueJS</span><span>90%</span></div><div class="h-2 bg-gray-800 rounded-full"><div class="h-full bg-gradient-to-r from-primary-500 to-purple-500 rounded-full" style="width: 90%"></div></div></div>
+                            <div><div class="flex justify-between mb-2"><span>TailwindCSS</span><span>95%</span></div><div class="h-2 bg-gray-800 rounded-full"><div class="h-full bg-gradient-to-r from-primary-500 to-purple-500 rounded-full" style="width: 95%"></div></div></div>
+                        </div>
+                    </div>
+                    <div class="glass-effect rounded-2xl p-6">
+                        <h3 class="text-xl font-semibold mb-6">Mobile Development</h3>
+                        <div class="space-y-4">
+                            <div><div class="flex justify-between mb-2"><span>Flutter</span><span>90%</span></div><div class="h-2 bg-gray-800 rounded-full"><div class="h-full bg-gradient-to-r from-primary-500 to-purple-500 rounded-full" style="width: 90%"></div></div></div>
+                            <div><div class="flex justify-between mb-2"><span>Android Studio</span><span>85%</span></div><div class="h-2 bg-gray-800 rounded-full"><div class="h-full bg-gradient-to-r from-primary-500 to-purple-500 rounded-full" style="width: 85%"></div></div></div>
+                            <div><div class="flex justify-between mb-2"><span>Kotlin</span><span>80%</span></div><div class="h-2 bg-gray-800 rounded-full"><div class="h-full bg-gradient-to-r from-primary-500 to-purple-500 rounded-full" style="width: 80%"></div></div></div>
+                        </div>
+                    </div>
+                    <div class="glass-effect rounded-2xl p-6">
+                        <h3 class="text-xl font-semibold mb-6">Tools & Others</h3>
+                        <div class="space-y-4">
+                            <div><div class="flex justify-between mb-2"><span>Git</span><span>90%</span></div><div class="h-2 bg-gray-800 rounded-full"><div class="h-full bg-gradient-to-r from-primary-500 to-purple-500 rounded-full" style="width: 90%"></div></div></div>
+                            <div><div class="flex justify-between mb-2"><span>REST API</span><span>85%</span></div><div class="h-2 bg-gray-800 rounded-full"><div class="h-full bg-gradient-to-r from-primary-500 to-purple-500 rounded-full" style="width: 85%"></div></div></div>
+                            <div><div class="flex justify-between mb-2"><span>UI/UX</span><span>85%</span></div><div class="h-2 bg-gray-800 rounded-full"><div class="h-full bg-gradient-to-r from-primary-500 to-purple-500 rounded-full" style="width: 85%"></div></div></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Footer -->
+        <footer class="border-t border-gray-800 py-12">
+            <div class="container mx-auto px-6 text-center">
+                <p class="text-gray-500">© 2024 Dede Fuji Abdul. All rights reserved.</p>
+                <p class="text-gray-500 mt-2">Made with ❤️ by defuj</p>
+            </div>
+        </footer>
+    </div>
+</body>
+</html>
