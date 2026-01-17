@@ -69,12 +69,12 @@ I am a dedicated <strong>IT Professional</strong> specializing in <strong>Front-
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=defuj&show_icons=true&count_private=true&hide_border=true&title_color=6aa6f8&icon_color=6aa6f8&text_color=c9d1d9&bg_color=0d1117" alt="Dede Fuji Abdul's GitHub Stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=defuj&layout=compact&hide_border=true&title_color=6aa6f8&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="Most Used Languages" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=defuj&show_icons=true&count_private=true&hide_border=true&title_color=6aa6f8&icon_color=6aa6f8&text_color=c9d1d9&bg_color=0d1117&cache_seconds=86400&v=2" alt="Dede Fuji Abdul's GitHub Stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=defuj&layout=compact&hide_border=true&title_color=6aa6f8&text_color=c9d1d9&bg_color=0d1117&langs_count=8&cache_seconds=86400&v=2" alt="Most Used Languages" />
 </div>
 
 <div align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=defuj&theme=transparent&hide_border=true&stroke=6aa6f8&ring=6aa6f8&fire=6aa6f8&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=6aa6f8&sideLabels=6aa6f8&dates=888888&background=0d1117" alt="GitHub Streak" />
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=defuj&theme=transparent&hide_border=true&stroke=6aa6f8&ring=6aa6f8&fire=6aa6f8&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=6aa6f8&sideLabels=6aa6f8&dates=888888&background=0d1117&cache_seconds=86400&v=2" alt="GitHub Streak" />
 </div>
 
 ---
@@ -83,7 +83,7 @@ I am a dedicated <strong>IT Professional</strong> specializing in <strong>Front-
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=defuj&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=defuj&theme=algolia&no-frame=true&no-bg=true&row=1&column=7&v=2" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -92,7 +92,7 @@ I am a dedicated <strong>IT Professional</strong> specializing in <strong>Front-
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=defuj&bg_color=0d1117&color=6aa6f8&line=6aa6f8&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=defuj&bg_color=0d1117&color=6aa6f8&line=6aa6f8&point=ffffff&area=true&hide_border=true&v=2" alt="Contribution Graph" />
 </div>
 
 ---
@@ -125,7 +125,7 @@ I am a dedicated <strong>IT Professional</strong> specializing in <strong>Front-
 
 <!-- Random Dev Quote -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia" alt="Random Dev Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia&v=2" alt="Random Dev Quote"/>
 </div>
 
 <br/>
