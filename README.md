@@ -1,51 +1,140 @@
-<h1 align="left">Hi 👋, I'm Dede Fuji Abdul</h1>
-<p align="left">I am a dedicated IT professional specializing in Front-End development. My technical skills include Java, Kotlin, Dart, JavaScript, and TypeScript. I have extensive experience with modern frameworks and libraries such as Vue.js, React.js, React Native, and Flutter. I also employ CSS frameworks like Bootstrap and TailwindCSS to create visually appealing and responsive designs.</p>
+<!-- Header Banner with Animated Wave -->
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Dede%20Fuji%20Abdul&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Front-End%20Developer%20%7C%20Mobile%20Developer&descAlignY=52&descSize=18"/>
+</div>
 
-<p align="left">In my role as a Front-End Developer, I am committed to delivering interactive and highly responsive web applications as well as cross-platform mobile applications. My passion for continuous learning drives me to stay current with the latest advancements in Front-End development, ensuring that I consistently provide innovative solutions.</p>
+<!-- Animated Typing -->
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AA6F8&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+Profile!+%F0%9F%91%8B;Building+Beautiful+User+Experiences;Passionate+About+Clean+Code+%26+Design;Always+Learning+New+Technologies" alt="Typing SVG" /></a>
+</div>
 
-<h2 align="left">🔧 Technologies & Tools</h2>
+<!-- Profile Views & Social Badges -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=defuj&label=Profile%20Views&color=6aa6f8&style=for-the-badge" alt="Profile Views" />
+  <a href="https://github.com/defuj?tab=followers"><img src="https://img.shields.io/github/followers/defuj?label=Followers&style=for-the-badge&color=6aa6f8" alt="GitHub Followers"/></a>
+  <a href="https://github.com/defuj?tab=repositories"><img src="https://img.shields.io/github/stars/defuj?label=Stars&style=for-the-badge&color=6aa6f8" alt="GitHub Stars"/></a>
+</div>
+
+<br/>
+
+<!-- About Me Section -->
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+## 💫 About Me
+
 <p align="left">
-  <img src="https://img.shields.io/badge/Git-informational?style=flat&logo=git&logoColor=white&color=6aa6f8" alt="Git" />
-  <img src="https://img.shields.io/badge/Postman-informational?style=flat&logo=postman&logoColor=white&color=6aa6f8" alt="Postman" />
-  <img src="https://img.shields.io/badge/Wordpress-informational?style=flat&logo=wordpress&logoColor=white&color=6aa6f8" alt="Wordpress" />
-  <img src="https://img.shields.io/badge/CodeMagic-informational?style=flat&logo=codemagic&logoColor=white&color=6aa6f8" alt="CodeMagic" />
-  <img src="https://img.shields.io/badge/Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8" alt="Docker" />
-  <img src="https://img.shields.io/badge/Firebase-informational?style=flat&logo=firebase&logoColor=white&color=6aa6f8" alt="Firebase" />
-  <img src="https://img.shields.io/badge/Google_Cloud-informational?style=flat&logo=googlecloud&logoColor=white&color=6aa6f8" alt="Google Cloud" />
-  <img src="https://img.shields.io/badge/AWS-informational?style=flat&logo=amazonaws&logoColor=white&color=6aa6f8" alt="AWS" />
-  <img src="https://img.shields.io/badge/Amazon_S3-informational?style=flat&logo=amazons3&logoColor=white&color=6aa6f8" alt="Amazon S3" />
-  <img src="https://img.shields.io/badge/MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=6aa6f8" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/MySQL-informational?style=flat&logo=mysql&logoColor=white&color=6aa6f8" alt="MySQL" />
-  <img src="https://img.shields.io/badge/VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Android_Studio-informational?style=flat&logo=android-studio&logoColor=white&color=6aa6f8" alt="Android Studio" />
-  <img src="https://img.shields.io/badge/Next.Js-informational?style=flat&logo=next.js&logoColor=white&color=6aa6f8" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Vue.Js-informational?style=flat&logo=vue.js&logoColor=white&color=6aa6f8" alt="Vue.js" />
-  <img src="https://img.shields.io/badge/Flutter-informational?style=flat&logo=flutter&logoColor=white&color=6aa6f8" alt="Flutter" />
-  <img src="https://img.shields.io/badge/React_Native-informational?style=flat&logo=react&logoColor=white&color=6aa6f8" alt="React Native" />
-  <img src="https://img.shields.io/badge/React_JS-informational?style=flat&logo=react&logoColor=white&color=6aa6f8" alt="React.js" />
-  <img src="https://img.shields.io/badge/NodeJs-informational?style=flat&logo=node.js&logoColor=white&color=6aa6f8" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Spring_Boot-informational?style=flat&logo=spring&logoColor=white&color=6aa6f8" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=6aa6f8" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/TailwindCSS-informational?style=flat&logo=tailwindcss&logoColor=white&color=6aa6f8" alt="TailwindCSS" />
+I am a dedicated <strong>IT Professional</strong> specializing in <strong>Front-End Development</strong> with a passion for creating beautiful, interactive, and highly responsive applications.
 </p>
 
-<h2 align="left">🖥️ Programming Languages</h2>
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-informational?style=flat&logo=oracle&logoColor=white&color=6aa6f8" alt="Java" />
-  <img src="https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=6aa6f8" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/PHP-informational?style=flat&logo=php&logoColor=white&color=6aa6f8" alt="PHP" />
-  <img src="https://img.shields.io/badge/Kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=6aa6f8" alt="Kotlin" />
-  <img src="https://img.shields.io/badge/Dart-informational?style=flat&logo=dart&logoColor=white&color=6aa6f8" alt="Dart" />
-  <img src="https://img.shields.io/badge/Go-informational?style=flat&logo=go&logoColor=white&color=6aa6f8" alt="Go" />
-</p>
+- 🔭 Currently working on **Web & Mobile Applications**
+- 🌱 Always learning **New Technologies & Frameworks**
+- 💡 Passionate about **Clean Code & Beautiful UI/UX**
+- 🎯 Goal: **Building Innovative Digital Solutions**
+- ⚡ Fun fact: **I love turning ideas into reality through code!**
 
-<h2 align="left">🔗 Connect with me</h2>
+<br clear="both"/>
+
+---
+
+<!-- Tech Stack Section -->
+## 🛠️ Tech Stack
+
+<details open>
+<summary><b>💻 Programming Languages</b></summary>
+<br/>
 <p align="left">
-  <a href="https://twitter.com/defuj17" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/defuj" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://fb.com/defuj17" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
-  <a href="https://instagram.com/defuj17" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-  <a href="https://www.youtube.com/c/defuj17" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a>
-  <a href="mailto:defuj.dev@gmail.com" target="_blank"><img src="https://www.logo.wine/a/logo/Gmail/Gmail-Logo.wine.svg" alt="Email" height="30" width="40" /></a>
+  <img src="https://skillicons.dev/icons?i=java,kotlin,dart,js,ts,php,go&theme=dark" alt="Programming Languages" />
 </p>
+</details>
+
+<details open>
+<summary><b>🚀 Frameworks & Libraries</b></summary>
+<br/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,vue,nextjs,flutter,nodejs,spring,bootstrap,tailwind&theme=dark" alt="Frameworks & Libraries" />
+</p>
+</details>
+
+<details open>
+<summary><b>🔧 Tools & Platforms</b></summary>
+<br/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,docker,firebase,gcp,aws,mongodb,mysql,vscode,androidstudio,postman,wordpress&theme=dark" alt="Tools & Platforms" />
+</p>
+</details>
+
+---
+
+<!-- GitHub Stats Section -->
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=defuj&show_icons=true&count_private=true&hide_border=true&title_color=6aa6f8&icon_color=6aa6f8&text_color=c9d1d9&bg_color=0d1117" alt="Dede Fuji Abdul's GitHub Stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=defuj&layout=compact&hide_border=true&title_color=6aa6f8&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="Most Used Languages" />
+</div>
+
+<div align="center">
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=defuj&theme=transparent&hide_border=true&stroke=6aa6f8&ring=6aa6f8&fire=6aa6f8&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=6aa6f8&sideLabels=6aa6f8&dates=888888&background=0d1117" alt="GitHub Streak" />
+</div>
+
+---
+
+<!-- GitHub Trophies -->
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=defuj&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
+</div>
+
+---
+
+<!-- Activity Graph -->
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=defuj&bg_color=0d1117&color=6aa6f8&line=6aa6f8&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
+</div>
+
+---
+
+<!-- Connect With Me Section -->
+## 🤝 Connect With Me
+
+<div align="center">
+  <a href="https://linkedin.com/in/defuj" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/defuj17" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://instagram.com/defuj17" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://fb.com/defuj17" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="https://www.youtube.com/c/defuj17" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+  <a href="mailto:defuj.dev@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</div>
+
+---
+
+<!-- Random Dev Quote -->
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia" alt="Random Dev Quote"/>
+</div>
+
+<br/>
+
+<!-- Footer -->
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+</div>
+
+<div align="center">
+  <b>⭐ From <a href="https://github.com/defuj">defuj</a> with ❤️</b>
+</div>
