@@ -66,7 +66,7 @@ I am a dedicated <strong>IT Professional</strong> specializing in <strong>Front-
 ---
 
 <!-- GitHub Stats Section -->
-## 📊 GitHub Statistics
+<!--## 📊 GitHub Statistics
 
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=defuj&show_icons=true&count_private=true&hide_border=true&title_color=6aa6f8&icon_color=6aa6f8&text_color=c9d1d9&bg_color=0d1117&cache_seconds=86400&v=2" alt="Dede Fuji Abdul's GitHub Stats" /> 
@@ -77,7 +77,7 @@ I am a dedicated <strong>IT Professional</strong> specializing in <strong>Front-
   <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=defuj&theme=transparent&hide_border=true&stroke=6aa6f8&ring=6aa6f8&fire=6aa6f8&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=6aa6f8&sideLabels=6aa6f8&dates=888888&background=0d1117&cache_seconds=86400&v=2" alt="GitHub Streak" />
 </div>
 
----
+--->
 
 <!-- GitHub Trophies -->
 <!-- ## 🏆 GitHub Trophies
