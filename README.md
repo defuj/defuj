@@ -80,22 +80,22 @@ I am a dedicated <strong>IT Professional</strong> specializing in <strong>Front-
 ---
 
 <!-- GitHub Trophies -->
-## 🏆 GitHub Trophies
+<!-- ## 🏆 GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=defuj&theme=algolia&no-frame=true&no-bg=true&row=1&column=7&v=2" alt="GitHub Trophies" />
 </div>
 
----
+--->
 
 <!-- Activity Graph -->
-## 📈 Contribution Graph
+<!--## 📈 Contribution Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=defuj&bg_color=0d1117&color=6aa6f8&line=6aa6f8&point=ffffff&area=true&hide_border=true&v=2" alt="Contribution Graph" />
 </div>
 
----
+--->
 
 <!-- Connect With Me Section -->
 ## 🤝 Connect With Me
