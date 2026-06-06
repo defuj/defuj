@@ -84,7 +84,7 @@ I'm a frontend engineer who bridges product strategy with frontend execution. Si
 ## Connect
 
 <div align="center">
-  <a href="https://defuj.dev" target="_blank">
+  <a href="https://www.defuj.dev" target="_blank">
     <img src="https://img.shields.io/badge/defuj.dev-c9713a?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
   </a>
   <a href="https://linkedin.com/in/defuj" target="_blank">
