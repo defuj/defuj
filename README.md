@@ -71,12 +71,14 @@ I'm a frontend engineer who bridges product strategy with frontend execution. Si
 ## GitHub Analytics
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=defuj&show_icons=true&count_private=true&hide_border=true&title_color=c9713a&icon_color=c9713a&text_color=b0a89c&bg_color=0d0c09" alt="GitHub Stats" />
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=defuj&layout=compact&hide_border=true&title_color=c9713a&text_color=b0a89c&bg_color=0d0c09&langs_count=8" alt="Top Languages" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=defuj&theme=github_dark" alt="GitHub Stats" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=defuj&theme=github_dark" alt="Top Languages" />
 </div>
 
+<br/>
+
 <div align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=defuj&theme=transparent&hide_border=true&stroke=c9713a&ring=c9713a&fire=c9713a&currStreakNum=e8e0d7&sideNums=e8e0d7&currStreakLabel=c9713a&sideLabels=c9713a&dates=7f7a72&background=0d0c09" alt="GitHub Streak" />
+  <img width="70%" src="https://github-readme-streak-stats-eight.vercel.app/?user=defuj&background=0d0c09&ring=c9713a&fire=c9713a&currStreakNum=e8e0d7&sideNums=e8e0d7&currStreakLabel=c9713a&sideLabels=c9713a&dates=7f7a72&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
@@ -84,7 +86,7 @@ I'm a frontend engineer who bridges product strategy with frontend execution. Si
 ## Connect
 
 <div align="center">
-  <a href="https://www.defuj.dev" target="_blank">
+  <a href="https://defuj.dev" target="_blank">
     <img src="https://img.shields.io/badge/defuj.dev-c9713a?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
   </a>
   <a href="https://linkedin.com/in/defuj" target="_blank">
